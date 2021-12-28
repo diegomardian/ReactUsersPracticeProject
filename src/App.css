@@ -41,3 +41,13 @@
   display: flex;
   justify-content: center;
 }
+
+.loginInput {
+  width: 100%;
+}
+.loginInput + .loginInput {
+  margin-top: 20px;
+}
+
+.loginForm {
+}
